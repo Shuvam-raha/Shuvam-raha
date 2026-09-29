@@ -26,35 +26,15 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class ShuvamRaha:
+🎓 B.Tech IT Student | 2027
 
-    role = "Data Analyst | Machine Learning Enthusiast"
+📊 Passionate about Data Analytics & Machine Learning
 
-    education = "B.Tech Information Technology"
-    graduation = 2027
+🐍 Python • SQL • Pandas • NumPy • Scikit-Learn
 
-    interests = [
-        "Data Analytics",
-        "Machine Learning",
-        "Predictive Analytics",
-        "Python Development",
-        "SQL & Databases"
-    ]
+🤖 Interested in Predictive Analytics & Data-driven Solutions
 
-    currently_learning = [
-        "Advanced Machine Learning",
-        "Data science",
-        "SQL",
-        "Data Visualization"
-    ]
-
-    goal = "Build practical projects and become industry-ready 🚀"
-```
-
-I'm an **Information Technology undergraduate** interested in Data Analytics, Machine Learning and Python development.
-
-I enjoy working with datasets, preprocessing data, building predictive models and turning data into useful insights.
+🚀 Building projects and continuously improving my skills
 
 ---
 
@@ -138,31 +118,6 @@ I enjoy working with datasets, preprocessing data, building predictive models an
 </div>
 
 ---
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Shuvam-raha/Shuvam-raha/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
-> ⚠️ The snake animation requires a GitHub Actions workflow.
-> Setup instructions are provided below.
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shuvam-raha&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-
 
 # 📚 Currently Exploring
 
